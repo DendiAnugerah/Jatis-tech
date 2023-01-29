@@ -2,7 +2,7 @@
 
 ## Algorithm and SQL Test
 
-This folder contains my answers to the algorithm and SQL test for the software engineer role.
+Hi kak Dicky, this folder contains my answers to the algorithm and SQL test for the software engineer role.
 
 ## Algorithm Test
 
